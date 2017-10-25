@@ -1,0 +1,15 @@
+{
+  "name": "request-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "winston": "^3.0.0-rc1"
+  }
+}
